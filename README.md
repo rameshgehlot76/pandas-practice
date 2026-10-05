@@ -14,7 +14,7 @@ Hands-on practice files from learning **pandas** for data analysis and AI/ML —
 | pandas | Data manipulation & analysis |
 | JSON / CSV / Excel | Data file formats practiced |
 
-## Project Structure
+## Project Structure 
 
 ```
 pandas-practice/
