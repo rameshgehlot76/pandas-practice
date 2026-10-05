@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
+![Status](https://img.shields.io/badge/Status-Learned-brightgreen)
 
 Hands-on practice files from learning **pandas** for data analysis and AI/ML — covering DataFrame basics, exploration, filtering, modification, and reading/writing data in multiple formats.
 
