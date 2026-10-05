@@ -1,0 +1,14 @@
+Types of Joins
+
+1- inner  => Returns only the rows with matching values in both DataFrames
+2- outer  => Returns all rows from both DataFrames
+3- left   => Returns all rows from the left DataFrame and matching rows from the right DataFrame
+4- right  => Returns all rows from the right DataFrame and matching rows from the left DataFrame
+5- cross  => Returns the Cartesian product of both DataFrames
+
+Example: cross join of two DataFrames with 3 rows each will result in a DataFrame with 9 rows
+1df = m rows
+2df = n rows
+m * n rows
+
+

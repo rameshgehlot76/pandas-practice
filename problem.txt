@@ -1,0 +1,14 @@
+1 - coloumns, rows?
+2- what type of data?
+3- missing data?
+
+
+info()
+method 
+
+1- number of rows and coloumns
+2- column name 
+3- int65 float65 object 
+4- non null counts
+5- memory usage of the data frame 
+

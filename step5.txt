@@ -1,0 +1,37 @@
+1- select specific column
+2- filter rows
+3- combine multiple conditions 
+
+1- square brackets
+2- boolean conditions 
+
+selecting columns
+1- a series
+2- dataframe multiple columns of data 
+
+#selecting specific columns
+column = df["Column Name"]
+column = df["Column Name"] 
+column = df["Column Name"] 
+
+#selecting multiple columns 
+subset = df[["Column1","Column2","..."]]
+subset = df[["Column1","Column2","..."]]
+subset = df[["Column1","Column2","..."]]
+
+
+filtering rows 
+boolean indexing 
+
+#based on a single conditions 
+filtered_Rows = df[df["Salary"] > 50000]
+filtered_Rows = df[df["Salary"] > 50000] 
+filtered_Rows = df[df["Salary"] > 50000] 
+
+
+#combine multiple conditions
+filtered_Rows = df[(df["Salary"] > 50000) & (df["Salary"] < 80000)]
+filtered_Rows = df[(df["Salary"] > 50000) & (df["Salary"] < 80000)] 
+filtered_Rows = df[(df["Salary"] > 50000) & (df["Salary"] < 80000)] 
+
+
