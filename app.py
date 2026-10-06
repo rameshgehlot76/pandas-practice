@@ -1,6 +1,6 @@
 import pandas as pd 
 
-# read data from a CSV, JSON, Excel file into a dataframe
+#read data from a CSV, JSON, Excel file into a dataframe
 
 #df = pd.read_json("pandas/sample_Data.json", encoding="utf-8")
 df = pd.read_excel("pandas/SampleSuperstore.xlsx")   
