@@ -1,4 +1,4 @@
-#adding columns
+#adding columns 
 
 import pandas as pd
 
@@ -20,6 +20,3 @@ print(df)
 # df.insert(location, "Column_Name", some_data) 
 df.insert(0, "Employee ID", [10,20,30,40,50,60,70,80,90,100])
 print(df)
-
-
-
