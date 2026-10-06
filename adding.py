@@ -17,6 +17,6 @@ print(df)
 
 
 #using insert()
-# df.insert(location, "Column_Name", some_data) 
+#df.insert(location, "Column_Name", some_data) 
 df.insert(0, "Employee ID", [11,22,33,44,55,66,77,88,99,111])
 print(df)
