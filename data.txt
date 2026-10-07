@@ -1,5 +1,5 @@
 
-why do we need to explore the data 
+Why do we need to explore the data? 
 
 1- understand the data set 
 2- identify the problems 
