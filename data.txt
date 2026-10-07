@@ -1,7 +1,7 @@
 
 Why do we need to explore the data? 
 
-1- understand the data set
-2- identify the problems
-3- plan the next steps
+1- Understand the data set
+2- Identify the problems
+3- Plan the next steps
 
