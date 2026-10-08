@@ -1,9 +1,9 @@
 [
     {
       "id": 1,
-      "name": "Apple iPhone 12",
+      "name": "Apple iPhone 17",
       "description": "The Apple iPhone 12 features a 6.1-inch Super Retina XDR display and A14 Bionic chip.",
-      "price": 999.00,
+      "price": 99900.00,
       "category": "Electronics",
       "image": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-12_red-product(1)_10132020_big.jpg.large.jpg"
     },
