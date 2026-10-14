@@ -18,8 +18,7 @@
       "name": "Sony PlayStation 5",
       "description": "The Sony PlayStation 5 features an AMD Zen 2-based CPU, AMD RDNA 2-based GPU, and 16GB of GDDR6 memory.",
       "price": 44999.99,
-      "category": "Electronics",
-      "image": "https://www.sony.com/image/44baa604124b770c82401a2dbd78ebaf?fmt=pjpeg&wid=720&bgcolor=F1F5F9&bgc=F1F5F9"
+      "category": "Electronics"
     },
     {
       "id": 4,
