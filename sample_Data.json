@@ -88,8 +88,7 @@
       "name": "Fitbit Charge 4 Fitness Tracker",
       "description": "The Fitbit Charge 4 Fitness Tracker features GPS and Active Zone Minutes.",
       "price": 8199.95,
-      "category": "Electronics",
-      "image": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/charge-4/hero/PDP-Charge-4-Black-Hero.png"
+      "category": "Electronics"
     },
     {
       "id": 14,
